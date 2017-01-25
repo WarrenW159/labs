@@ -12,7 +12,7 @@ output: html_document
 #We will be requiring knitr, dplyr, and ggplot2
 
 
-#tried
+
 #Read in the dataset
 
 
